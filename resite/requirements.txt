@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+pydantic
+aiomysql
+pymysql
+dotenv
+bcrypt
+passlib
+python-jose
